@@ -8,7 +8,7 @@ html,body{
   display: grid;
   height: 100vh;
   place-items:center;
-  background: #be2edd;
+  background: #2b50c7;
 }
 .main_div{
   width: 365px;
@@ -43,7 +43,7 @@ form .input_box{
   transition: all 0.3s ease;
 }
 .input_box input:focus{
-  border-color: #be2edd;
+  border-color: #2b50c7;
 }
 .input_box .icon{
   position: absolute;
@@ -68,11 +68,11 @@ form .option_div{
 }
 .option_div .forget_div a{
   font-size: 16px;
-  color: #be2edd;
+  color: #2b50c7;
 }
 .button input{
   padding-left: 0;
-  background: #be2edd;
+  background: #2b50c7;
   color: #fff;
   border: none;
   font-size: 20px;
@@ -81,14 +81,14 @@ form .option_div{
   transition: all 0.3s linear;
 }
 .button input:hover{
-  background: #a720c5;
+  background: #2b50c7;
 }
 form .sign_up{
   text-align: center;
   margin-top: 25px;
 }
 .sign_up a{
-  color: #be2edd;
+  color: #2b50c7;
 }
 form a{
   text-decoration: none;
